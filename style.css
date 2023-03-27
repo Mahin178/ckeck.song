@@ -1,0 +1,11 @@
+.myb{
+    height: 100px;
+    width: 100px;
+    margin: 15px;
+    
+}
+
+.anim{
+    box-shadow: 6px 6px 10px gray;
+    padding: 5px;
+}
